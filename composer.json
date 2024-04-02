@@ -1,0 +1,17 @@
+{
+    "name": "muhammad-rizki/test-code-esbi",
+    "description": "Test code PT Esbi",
+    "type": "project",
+    "require": {
+        "php": "^8.2",
+        "vlucas/phpdotenv": "^5.6",
+        "pecee/simple-router": "5.4.1.7"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "app/Controllers",
+            "Models\\": "app/Models"
+       }
+    }
+}
