@@ -3,7 +3,7 @@
 copy and paste in your terminal
 
 ```bash
-git clone https://github.com/MRizki28/SIMAK.git
+git clone https://github.com/MRizki28/Test-Code-Esbi.git
 ```
 
 install composer
